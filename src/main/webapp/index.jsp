@@ -41,7 +41,7 @@
     </div>
 
     <div class="detail">
-        <span class="label">Contact:</span> 6303921811
+        <span class="label">Contact:</span> 9959206005
     </div>
 
     <div class="detail">
